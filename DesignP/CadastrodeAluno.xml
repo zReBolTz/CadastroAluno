@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Alunos id="1">
+    <aluno/>
+    <nome>Lele</nome>
+    <CPF>102</CPF>
+    <Curso>2</Curso>
+    <Endereco/>
+    <Rua>2</Rua>
+    <Bairro>22</Bairro>
+    <Numero>2</Numero>
+    <Cidade>2</Cidade>
+    <Estado>2</Estado>
+    <CEP>2</CEP>
+    <aluno/>
+    <nome>Robson</nome>
+    <CPF>5</CPF>
+    <Curso>5</Curso>
+    <Endereco/>
+    <Rua>5</Rua>
+    <Bairro>5</Bairro>
+    <Numero>5</Numero>
+    <Cidade>5</Cidade>
+    <Estado>5</Estado>
+    <CEP>5</CEP>
+</Alunos>

@@ -1,0 +1,2 @@
+AlunoX, nome= Lele, cpf= 102, curso= 2, endereço= 2, 22, 2, 2,2, 2
+AlunoX, nome= Robson, cpf= 5, curso= 5, endereço= 5, 5, 5, 5,5, 5
